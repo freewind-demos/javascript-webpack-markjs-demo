@@ -1,3 +1,4 @@
-require('./index.css')
+const Mark = require('mark.js');
 
-document.write('The body should have a yellow background color now')
+const marker = new Mark(document.body);
+marker.mark('Hello');

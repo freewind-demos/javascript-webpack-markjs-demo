@@ -1,13 +1,9 @@
-Webpack Config File Demo
-========================
+JavaScript Webpack mark.js Demo
+===============================
 
-Put all settings in `webpack.config.js`
+试一下mark.js被webpack打包之后是否还能正常运行，没问题。
 
 ```
 npm install
 npm run demo
 ```
-
-Then open `index.html` in your browser.
-
-![demo](./images/demo.jpg)
